@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61fb6e5c-7a4e-4d18-a168-aa5bba0f5b23" name="更改" comment="" />
+    <list default="true" id="61fb6e5c-7a4e-4d18-a168-aa5bba0f5b23" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,45 +67,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "JUnit.FamilyTest.executor": "Run",
-    "JUnit.FamilyTest.testFamily.executor": "Run",
-    "JUnit.PersonTest.executor": "Run",
-    "JUnit.PersonTest.name.executor": "Run",
-    "JUnit.familyTest.executor": "Run",
-    "JUnit.familyTest.testFamily.executor": "Run",
-    "Maven.spring-boot-config [install].executor": "Run",
-    "Maven.spring-boot-template [clean].executor": "Run",
-    "Maven.spring-boot-template [install].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.ConfigApplication.executor": "Run",
-    "Spring Boot.SpringBootQuickstartApplication.executor": "Run",
-    "Spring Boot.TemplateApplication.executor": "Run",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/WorkSpace/spring-boot-learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.37356323",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.FamilyTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FamilyTest.testFamily.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PersonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PersonTest.name.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.familyTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.familyTest.testFamily.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-boot-config [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-boot-template [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-boot-template [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ConfigApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBootQuickstartApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.TemplateApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WorkSpace/spring-boot-learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.37356323&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\WorkSpace\SpringBootProjects\spring-boot-learning\spring-boot-quickstart" />
@@ -257,6 +260,8 @@
       <workItem from="1710165308623" duration="2297000" />
       <workItem from="1710219996211" duration="856000" />
       <workItem from="1710238714544" duration="2178000" />
+      <workItem from="1710240905766" duration="927000" />
+      <workItem from="1710241868793" duration="752000" />
     </task>
     <task id="LOCAL-00001" summary="2023/3/11 学习项目创建">
       <option name="closed" value="true" />
@@ -322,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710161355389</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2023-3-12 重建本地仓库">
+      <option name="closed" value="true" />
+      <created>1710241154886</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710241154886</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +391,7 @@
     <MESSAGE value="2023/3/11 导入Template模块，使用模板引擎编写门户网站首页" />
     <MESSAGE value="2023/3/11 重写Readme文档，修改quickstart的依赖" />
     <MESSAGE value="2023/3/11 回滚spring-boot-config" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/3/11 回滚spring-boot-config" />
+    <MESSAGE value="2023-3-12 重建本地仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-3-12 重建本地仓库" />
   </component>
 </project>
