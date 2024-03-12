@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61fb6e5c-7a4e-4d18-a168-aa5bba0f5b23" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sliesu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4e8109de-985a-4552-a6ce-9d190e65c185" />
+        <option name="url" value="https://github.com/Sliesu/spring-boot-learning.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dWsnG0L0CiAespVwHO0i87mHZX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.FamilyTest.executor": "Run",
+    "JUnit.FamilyTest.testFamily.executor": "Run",
+    "JUnit.PersonTest.executor": "Run",
+    "JUnit.PersonTest.name.executor": "Run",
+    "JUnit.familyTest.executor": "Run",
+    "JUnit.familyTest.testFamily.executor": "Run",
+    "Maven.spring-boot-config [install].executor": "Run",
+    "Maven.spring-boot-template [clean].executor": "Run",
+    "Maven.spring-boot-template [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ConfigApplication.executor": "Run",
+    "Spring Boot.SpringBootQuickstartApplication.executor": "Run",
+    "Spring Boot.TemplateApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/WorkSpace/spring-boot-learning",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.37356323",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\SpringBootProjects\spring-boot-learning\spring-boot-quickstart" />
+      <recent name="E:\WorkSpace\SpringBootProjects\spring-boot-learning\spring-boot-config\src\main\resources" />
+      <recent name="E:\WorkSpace\SpringBootProjects\spring-boot-learning\spring-boot-quickstart\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\SpringBootProjects\spring-boot-learning\spring-boot-template\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.rainbowcloud" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.rainbowcloud.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonTest">
+    <configuration name="FamilyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rainbowcloud.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rainbowcloud.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.rainbowcloud.entity.FamilyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rainbowcloud.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rainbowcloud.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.rainbowcloud.entity.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rainbowcloud.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rainbowcloud.entity" />
+      <option name="MAIN_CLASS_NAME" value="com.rainbowcloud.entity.PersonTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-boot-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainbowcloud.ConfigApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rainbowcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootQuickstartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-boot-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainbowcloud.springbootquickstart.SpringBootQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootQuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-boot-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainbowcloud.boot.SpringBootQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-boot-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainbowcloud.boot.template.TemplateApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rainbowcloud.boot.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonTest" />
+        <item itemvalue="JUnit.FamilyTest" />
+        <item itemvalue="Spring Boot.ConfigApplication" />
+        <item itemvalue="Spring Boot.TemplateApplication" />
+        <item itemvalue="JUnit.PersonTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="61fb6e5c-7a4e-4d18-a168-aa5bba0f5b23" name="更改" comment="" />
+      <created>1710135337517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710135337517</updated>
+      <workItem from="1710135338682" duration="592000" />
+      <workItem from="1710135944236" duration="11589000" />
+      <workItem from="1710157248388" duration="1278000" />
+      <workItem from="1710158548019" duration="3887000" />
+      <workItem from="1710163591475" duration="310000" />
+      <workItem from="1710165052841" duration="249000" />
+      <workItem from="1710165308623" duration="2297000" />
+      <workItem from="1710219996211" duration="856000" />
+      <workItem from="1710238714544" duration="2178000" />
+    </task>
+    <task id="LOCAL-00001" summary="2023/3/11 学习项目创建">
+      <option name="closed" value="true" />
+      <created>1710135578038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710135578038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2023/3/11 第一次课堂代码上传">
+      <option name="closed" value="true" />
+      <created>1710136796736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710136796737</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023/3/11 1、Spring Boot配置管理项目学习 2、Spring Boot整合静态资源与模板引擎">
+      <option name="closed" value="true" />
+      <created>1710157653019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710157653019</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023/3/11 1、Spring Boot配置管理项目学习 2、Spring Boot整合静态资源与模板引擎">
+      <option name="closed" value="true" />
+      <created>1710157828957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710157828957</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2023/3/11 1、Spring Boot配置管理项目学习 2、Spring Boot整合静态资源与模板引擎">
+      <option name="closed" value="true" />
+      <created>1710158073765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710158073765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2023/3/11 导入Template模块，使用模板引擎编写门户网站首页">
+      <option name="closed" value="true" />
+      <created>1710158700912</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710158700912</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2023/3/11 重写Readme文档，修改quickstart的依赖">
+      <option name="closed" value="true" />
+      <created>1710159672061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710159672061</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2023/3/11 回滚spring-boot-config">
+      <option name="closed" value="true" />
+      <created>1710161355389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710161355389</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="e3a39e32-5ac0-4d99-88c3-cba512681e7c" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="e3a39e32-5ac0-4d99-88c3-cba512681e7c">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/3/11 学习项目创建" />
+    <MESSAGE value="2023/3/11 第一次课堂代码上传" />
+    <MESSAGE value="2023/3/11 1、Spring Boot配置管理项目学习 2、Spring Boot整合静态资源与模板引擎" />
+    <MESSAGE value="2023/3/11 导入Teamplate模块，使用模板引擎编写门户网站首页" />
+    <MESSAGE value="2023/3/11 导入Template模块，使用模板引擎编写门户网站首页" />
+    <MESSAGE value="2023/3/11 重写Readme文档，修改quickstart的依赖" />
+    <MESSAGE value="2023/3/11 回滚spring-boot-config" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/3/11 回滚spring-boot-config" />
+  </component>
+</project>
